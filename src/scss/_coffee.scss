@@ -5,26 +5,26 @@ body {
   font-size: 2rem;
 }
 
-header {
-  width: 100%;
-}
+// header {
+//   width: 100%;
+// }
 
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #f1f6f5;
-  width: 100%;
-}
+// nav {
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+//   background-color: #f1f6f5;
+//   width: 100%;
+// }
 
-nav .logo {
-  width: 100px;
-}
+// nav .logo {
+//   width: 100px;
+// }
 
-nav .nav-items a {
-  text-decoration: none;
-  color: lightgray;
-}
+// nav .nav-items a {
+//   text-decoration: none;
+//   color: lightgray;
+// }
 
 main {
   display: flex;
@@ -82,10 +82,10 @@ main .main p.smaller {
   }
 }
 
-@media (max-width: 768px) {
-  header nav {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-}
+// @media (max-width: 768px) {
+//   header nav {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//   }
+// }
